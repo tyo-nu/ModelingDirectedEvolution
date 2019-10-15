@@ -1,0 +1,5 @@
+/Users/scw967/Desktop/2019_data/Data/9-4-19_-IPTG 005_016.fcs
+/Users/scw967/Desktop/2019_data/Data/9-4-19_+IPTG 1%_002_015.fcs
+FITC-A
+6.0
+6.0
